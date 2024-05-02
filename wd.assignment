@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title> image tag </title>
+</head>
+<body>
+  <img src ="kohli.jpg">
+  <img src="abd villers.jpg">
+</body>
+</html>

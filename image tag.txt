@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title> image  tag </title>
+</head>
+<body>
+      <img src ="C:\Users\mehab\OneDrive\Desktop\wd.assignment\abd villers.jpg">
+       
+</body>
+</html>
